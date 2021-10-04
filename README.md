@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnpassfield
 - 👀 I’m interested in making games and health apps.
-- 🌱 I’m currently learning Flutter, Dart, C++ for Arduboy.
+- 🌱 I’m currently learning Unity, Flutter, and C++ for Arduboy and Playate.
 - 📫 How to reach me: john AT redspritestudios DOT com
 
 <!---
