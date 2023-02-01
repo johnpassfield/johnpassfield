@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnpassfield
 - 👀 I’m interested in making games and health apps.
-- 🌱 I’m currently learning Unity, Flutter, and C++ for Arduboy and Playdate.
+- 🌱 I’m currently building in SwiftUI, Unity and a bit of Flutter.
 - 📫 How to reach me: john AT redspritestudios DOT com
 
 <!---
